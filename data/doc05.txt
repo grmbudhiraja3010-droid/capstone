@@ -1,0 +1,19 @@
+Topic : Different Types of Loans in India
+
+Abstract : 
+Loans in India can broadly be classified into secured and unsecured loans, depending on whether collateral is provided. Banks and financial institutions offer different loan products based on the borrower’s purpose, income, risk profile, and repayment capacity.
+
+Topic	2-liner
+Home Loans	Home loans are secured loans used to purchase or construct a house, with the property serving as the primary security. They are generally long-term loans repaid through EMIs.
+Gold Loans	Gold loans are obtained by pledging gold as collateral, which remains with the lender until repayment. The loan amount depends on the value of the pledged gold and applicable LTV limits.
+Vehicle Loans	Vehicle loans finance the purchase of two-wheelers, cars, commercial vehicles, and other vehicles, with the vehicle acting as security. In case of non-repayment, the lender may seize the vehicle.
+Loan Against Property	A loan against property allows borrowers to raise funds by mortgaging residential or commercial property. The funds may be used for personal or business purposes, subject to the lender’s conditions.
+Loan Against Securities	Borrowers can obtain loans by pledging financial assets such as shares, mutual funds, bonds, and debentures. Since securities can fluctuate in value, lenders apply conservative LTV limits.
+Loan Against Fixed Deposits	Banks can provide loans against fixed deposits, using the FD as security. Since the deposit itself provides strong security, these are generally among the more affordable secured-loan options.
+Loan Against Insurance	Certain life insurance policies with surrender value can be used as security to obtain a loan. The amount available depends on the policy’s applicable value and lender-specific LTV rules.
+Working Capital Loans	Working capital loans help businesses meet short-term operating requirements and are commonly linked to assets such as stock and receivables. The lender determines the borrowing limit based on the business’s working-capital position.
+Personal Loans	Personal loans are unsecured loans that can generally be used for purposes such as emergencies, marriage, education, or asset purchases. Eligibility is influenced by factors such as income and CIBIL score.
+Short-term Business Loans	Short-term business loans provide funding when a business faces temporary financial requirements or cash-flow pressure. Loan eligibility and amount depend on factors such as profitability and the borrower’s profile.
+Education Loans	Education loans provide financial assistance for higher education when education costs exceed the borrower’s immediate resources. Repayment generally begins after a specified period following completion of education
+Credit Cards as Unsecured Credit
+Credit cards provide access to credit without requiring collateral and usually include a grace period for repayment. Outstanding balances may be converted into loans, but credit-card borrowing can carry relatively high interest rates.

@@ -1,0 +1,85 @@
+
+
+Abstract : 
+Key Points
+
+Bank frauds in India involved ₹48,021 crore in FY2025-26 according to RBI data
+Bureau identified 14,000 organised fraud rings in first half of 2026
+One in 23 quick commerce sessions classified as high risk by Q2 2026
+Financial fraud in India is shifting from high-volume payment scams towards higher-value lending fraud, synthetic identities and organised mule networks, according to Bureau’s Global Fraud Intelligence Report 2026 released this week.
+
+The report, citing Reserve Bank of India data, said bank frauds reported in India involved ₹48,021 crore in FY2025-26, while advances-related fraud accounted for ₹40,774 crore. Bureau argues that stronger controls around instant payments are pushing sophisticated fraud towards lending and application fraud, where identity checks and credit decisions present different vulnerabilities.
+
+
+India figures prominently in the report because of the scale of its digital economy. UPI is described as the world’s largest real-time payment system by transaction volume. Quick commerce, digital lending and app-based financial services have created new exposure points for fraudsters.
+
+The broader finding is that fraud is no longer driven mainly by isolated actors. Bureau said its intelligence network identified 14,000 organised fraud rings in the first half of 2026. One in three contained identities that had resurfaced after earlier detection, one in four operated across multiple industries and the largest network connected more than 45,000 identities.
+
+Identity attacks
+The report identifies identity as a main battleground. Fraudsters are increasingly combining stolen personal information with AI-generated names, photographs, documents and digital histories to create synthetic identities. A synthetic identity is a fabricated profile assembled from a mix of real and invented data that can pass conventional verification checks.
+
+Advertisement
+by TaboolaSponsored Links
+You May Like
+Start Learning Forex Today. Free webinar by iFOREX
+iFOREX
+The cost of hearing aids in Kurara might surprise you
+Hearing Aids
+Indians over 65 are switching from hearing aids to this new device.
+Hearing Aids
+Unlike identity theft, synthetic identity fraud may not generate an immediate victim complaint. A fabricated identity can enter the financial system, behave like a normal borrower for months, build a credit history and increase available credit before drawing down multiple credit lines and disappearing.
+
+Bureau said generative AI has made this process easier to automate, allowing fraudsters to create internally consistent profiles, modify failed identities and target institutions with weaker controls. The problem is particularly relevant to digital lenders and non-banking financial companies, where onboarding is designed to be fast and physical interaction is limited.
+
+The report said synthetic identities are particularly suited to unsecured personal credit and buy-now-pay-later products because both depend on rapid approvals and relatively limited customer histories.
+
+Advertisement
+For India, the report points to digital lending as an emerging risk area even as fraud controls on payment rails improve. It said the combination of lighter-touch KYC at some lenders and rapid credit extension could make the segment more vulnerable to application fraud and income misrepresentation.
+
+AI is also making traditional verification harder. The report cites deepfake video, voice cloning and AI-generated documents as increasingly accessible tools for bypassing identity checks. Bureau argues this weakens verification systems built primarily around documents or one-time KYC checks. It recommends combining identity checks with device intelligence, behavioural patterns and continuous monitoring after an account has been opened.
+
+Account takeover
+The report points to a change in account takeover attacks. Instead of trying to break passwords or OTPs, attackers are increasingly targeting authenticated sessions. Infostealer malware, a type of malicious software that extracts browser cookies and session tokens from compromised devices, allows an attacker to enter an account after authentication has already taken place.
+
+Bureau said it detected more than 21.7 million account takeover attempts across 5.4 billion login sessions in the first half of 2026, or roughly one attempt for every 250 sessions in its network. The rate rose from 0.29 per cent of sessions in April to 0.49 per cent in June.
+
+By the numbers
+Key figures from this story
+₹48,021 crore
+Bank frauds reported in India in FY2025-26
+14,000
+Organised fraud rings identified in H1 2026
+21.7 million
+Account takeover attempts detected in H1 2026
+Once inside, attackers may first study balances, beneficiaries and payment limits. They can then change contact details, add beneficiaries or alter recovery options before transferring funds. Bureau said more than 42 per cent of high-risk account takeover sessions involved devices linked to multiple accounts, while over a third showed signs of app tampering, cloned applications or unofficial installations.
+
+Mule accounts remain central to the fraud chain. Fraud proceeds are often transferred through multiple accounts before being withdrawn, converted into cryptocurrency or moved overseas. A mule account is a bank account used to receive and transfer illegally obtained money, breaking the transaction trail and reducing the time banks have to stop or recover the money.
+
+Bureau said mule accounts can be difficult to detect at onboarding because they often look like ordinary customer accounts until they are activated. Suspicious behaviour becomes visible later through rapid onward transfers, payments involving unrelated parties and links between accounts across institutions.
+
+The report highlights RBI‘s MuleHunter.AI initiative as an example of cross-institutional analysis aimed at identifying suspected mule accounts that may not appear suspicious when viewed by a single bank. It also points to the Indian Digital Payment Intelligence Corporation, incorporated in October 2025, as part of the effort to build shared fraud intelligence across the payments ecosystem.
+
+Quick commerce risk
+The report separately flags quick commerce as an emerging fraud surface. Bureau said it identified close to 82 million high-risk quick commerce sessions over five quarters. By the second quarter of 2026, more than one in every 23 sessions in the segment was classified as high risk by its systems.
+
+Quick commerce platforms promise deliveries in as little as 10 to 30 minutes, leaving little time for additional verification. Their reliance on promotional discounts and rapid dispute resolution also gives fraudsters other ways to exploit the system.
+
+The report identifies address manipulation, fake delivery claims and promotional abuse as key attack types. Account farming, where multiple accounts are created to repeatedly claim first-order discounts or referral benefits, can increase customer acquisition costs without necessarily appearing in conventional fraud-loss figures.
+
+Bureau’s network data showed suspected phishing rates on quick commerce platforms at around 0.4 per cent in the second quarter of 2026, compared with about 0.1 per cent for e-commerce.
+
+Behind these attack types is a larger shift in how fraud is organised. Criminal groups can increasingly buy or rent phishing kits, mule networks, synthetic identity packages and deepfake-generation tools instead of developing them themselves. The report describes this as a fraud-as-a-service economy, where specialised operators provide infrastructure in much the same way legitimate technology providers sell software and services.
+
+Globally, the report cites an estimate of $442 billion in fraud losses in 2025, while stressing that reported figures across jurisdictions remain incomplete because many victims do not report fraud and countries classify incidents differently.
+
+The scale of mule infrastructure extends beyond India. INTERPOL’s Operation First Light 2026, conducted across 97 countries, led to 5,811 arrests, interception of $293 million in illicit assets and the blocking of 31,014 bank accounts, according to figures cited in the report.
+
+Your Questions, Answered
+
+Synthetic identity fraud involves creating fabricated profiles by combining stolen personal information with AI-generated names, photographs and documents. Unlike identity theft, the victim may not exist or may not immediately know their data was used. The fabricated identity enters the financial system, builds credit history and then disappears after drawing down credit lines.
+
+Mule accounts are bank accounts used to receive and transfer illegally obtained money. They break the transaction trail between fraud victims and criminals. They are difficult to detect at onboarding because they look like ordinary accounts until activated, with suspicious behaviour only visible through later transaction patterns.
+
+Stronger controls around instant payments have made UPI harder to exploit. Sophisticated fraudsters are now targeting lending and application fraud, where identity checks and credit decisions present different vulnerabilities. Digital lenders with lighter KYC requirements and rapid credit extension are particularly exposed.
+
+Bureau identified close to 82 million high-risk quick commerce sessions over five quarters. By Q2 2026, more than one in every 23 sessions was classified as high risk. The 10 to 30 minute delivery promise leaves little time for verification, while promotional discounts create additional exploitation opportunities.

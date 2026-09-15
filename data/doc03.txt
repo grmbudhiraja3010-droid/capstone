@@ -1,0 +1,13 @@
+Title : Understanding Credit Risk
+
+Abstarct : 
+Definition : Credit risk is the potential for financial loss to a lender when a borrower fails to repay a loan or meet contractual obligations.
+Credit risk is the chance that a borrower may default on a loan, leading to potential financial loss for the lender. It is central in finance as it affects lending decisions and interest rates.
+
+Lenders use tools like credit scores and the five Cs of credit—capacity, capital, conditions, character, and collateral—to evaluate borrowers’ creditworthiness and manage credit risk effectively.
+
+Credit ratings by agencies like Moody’s and Fitch play a crucial role in assessing the risk associated with corporate and municipal bonds, influencing investment decisions.
+
+High credit risk often results in higher interest rates as lenders seek compensation for the increased risk of default. Borrowers with high creditworthiness, by contrast, benefit from lower rates.
+
+Banks manage credit risk by setting strict lending criteria, continuously monitoring credit portfolios, and adjusting to changes in a borrower’s credit profile, thus reducing potential losses.

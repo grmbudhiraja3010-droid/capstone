@@ -1,0 +1,239 @@
+Title : Core metrics identified to enhance surveillance of private credit
+
+Abstract :
+Category Metric Description
+Size and trends NAV or AUM of private
+credit funds
+Total Net Asset Value (NAV) or Assets Under
+Management (AUM) of private credit funds.
+NAV or AUM by strategy Segmented by (i) direct lending, (ii) asset-based
+finance, (iii) NAV/fund finance, (iv) special
+situations/distressed.
+Private credit issuance Issuance as a percentage of GDP or total
+lending to nonfinancial companies.
+SRT holdings Private credit funds’ holdings of Significant Risk
+Transfer (SRT) instruments over total NAV.
+Interconnectedness Bank lending to private
+credit funds
+As a percentage of total bank assets,
+categorized by facility types (e.g., subscription
+lines, NAV, ABL).
+Insurer investments Share of insurer investments allocated to private
+credit.
+PE ownership of
+insurers
+Share of insurance companies owned by private
+equity (PE) firms.
+Committed vs drawn
+capital
+Committed vs drawn capital by banks to private
+credit funds.
+Leverage Private credit funds’
+leverage ratio
+Debt to NAV and debt to equity ratios of private
+credit funds.
+Borrowers’ debt-toEBITDA
+Leverage ratio of private credit borrowers.
+Liquidity mismatch Open-ended fund NAV NAV of open-ended private credit funds as a
+proportion of total private credit funds’ NAV.
+Redemptions Redemptions frequency
+Investor base NAV or AUM of private credit funds held by retail
+vs institutional investors.
+Concentration Fund concentration NAV or AUM of top N (e.g. 3, 5, or 10) private
+credit funds divided by total NAV or AUM.
+Sector concentration Private credit exposure to top N (e.g. 3, 5, or 10)
+economic sectors divided by total exposures.
+Cross-border
+activities
+International exposures Total exposures of funds with at least X% of
+borrowers domiciled outside the fund manager's
+jurisdiction.
+Geographic
+concentration
+Private credit exposure to top N (e.g. 3, 5, or 10)
+geographies divided by total exposures
+
+Borrower credit
+quality
+Loan-to-value (LTV)
+ratio
+Average and distribution of borrower loan-tovalue ratios.
+Interest coverage ratio
+(ICR)
+Average and distribution of borrower interest
+coverage ratios.
+Debt service coverage
+ratio (DSCR)
+Average and distribution of borrower debt
+service coverage ratios.
+Default rate Default rate on private credit loans.
+Negative free cash flows Share of borrowers with negative free cash
+flows.
+Credit spreads Private credit spreads or interest rate spreads
+over the risk-free rate.
+
+Additional metrics
+Category Metric Description
+Interconnectedness Share of private credit borrowers
+with bank revolving credit lines
+Percentage of borrowers in private credit
+with access to bank revolving credit lines.
+Bank-private credit fund overlaps
+in corporate portfolios
+Extent of overlapping exposures between
+banks and private credit funds in corporate
+portfolios.
+Borrowers financed by both private
+credit funds and banks
+Number (or total borrowing) of borrowers
+financed by both private credit funds and
+banks, as a share of total borrowers (or
+borrowing) of the private credit fund.
+Share of private credit funds (NAV)
+managed by dual-role asset
+managers
+NAV of private credit funds managed by
+asset managers who also run private equity
+and/or private credit funds.
+Affiliated private credit
+investments/total assets held by
+PE-linked insurers
+Ratio of affiliated private credit investments
+to total assets of insurers linked to private
+equity firms.
+Aggregate size of capital call
+subscription facilities
+Total size of capital call subscription
+facilities used by private credit funds.
+NAV of SRT initiated by banks
+over total private credit funds NAV
+Ratio of Significant Risk Transfer (SRT)
+initiated by banks financing private credit to
+total NAV.
+Leverage Private credit fund assets over
+drawn investor capital
+Ratio of fund assets to drawn investor
+capital.
+Subscription line utilization Subscription line utilization as a percentage
+of committed capital or NAV.
+Share of borrowers with leverage
+ratio above threshold
+Proportion of borrowers in each private
+credit fund exceeding a defined leverage
+ratio threshold.
+Liquidity Mismatch Open-ended funds with
+redemption frequencies
+(daily/weekly/monthly/quarterly)
+NAV of open-ended private credit funds
+with specific redemption frequencies over
+total NAV.
+Unencumbered cash and liquid
+assets over stressed redemption
+requests
+For each private credit fund, ratio of
+unencumbered cash and liquid assets to
+stressed redemption requests.
+NAV of private credit funds with
+liquidity management tools
+NAV of funds with tools like redemption
+gates, notice periods, side pockets, etc.
+Share of assets managed by semiliquid private credit funds
+Percentage of private credit fund assets
+classified as semi-liquid.
+Semi-liquid funds imposing
+penalties on <1 year redemptions
+Share of semi-liquid private credit funds
+with penalties for redemptions within one
+year.
+Redemption requests for semiliquid and perpetual funds
+Volume of redemption requests and
+redemptions met by semi-liquid and
+perpetual/evergreen funds.
+Drawn amount of private credit
+funds over total NAV
+Ratio of drawn amounts to total NAV of
+private credit funds.
+Unfunded commitments to private
+credit funds over unencumbered
+cash and liquid assets
+Ratio of total unfunded commitments to
+liquid resources available.
+Share of investments classified as
+Level 2 assets
+Percentage of private credit fund
+investments classified as Level 2 assets
+under fair value hierarchy.
+Undrawn funds from secured
+funding facilities
+Total undrawn amounts from secured
+funding facilities.
+Balance of unfunded commitments
+to borrowers
+Total unfunded commitments owed to
+borrowers.
+Concentration Exposure to top N issuers Private credit exposure to top N (e.g., 3, 5,
+10) issuers divided by total private credit
+exposures.
+Bank exposure to top N private
+credit funds
+Bank exposure to top N (e.g., 3, 5, 10)
+private credit funds divided by total bank
+exposure to private credit funds.
+Borrower Credit
+Quality
+Share of loans with PIK features Percentage of private credit loans with
+Payment-In-Kind (PIK) features or PIK
+toggles.
+Borrower financial metrics Metrics like borrower cash interest
+coverage ratio, fixed charge coverage ratio,
+net leverage, share of companies with
+negative FFO (funds from operations) or
+CFO (cash flow from operations), and value
+of non-accrual loans over total investments.
+Share of borrowers with negative
+cash earnings
+Percentage of borrowers with negative
+cash earnings.
+Covenant breaches and distressed
+loans
+Share of loans with covenant breaches,
+waivers, restructurings, amend-extends,
+distressed exchanges, payment deferrals,
+PIK activations, or defaults (e.g., payment,
+bankruptcy, covenant defaults) in the last
+12 months.
+Percentage of loans with
+maintenance covenants
+Share of private credit loans with
+maintenance covenants.
+Exposure-weighted share of loans
+by type
+Distribution of exposure across first-lien
+senior secured, second-lien, mezzanine,
+unsecured, and preferred/hybrid loans.
+
+Conclusions
+Private credit is estimated to be between $1.5 trillion and $2 trillion (as at end 2024) and has
+grown rapidly. This was driven by its ability to provide tailored financing options for companies,
+including those with higher credit risks or limited collateral. While traditionally targeting mediumsized enterprises and open to institutional investors, private credit is increasingly providing
+financing to larger firms and accessed by retail investors. The ecosystem revolves around asset
+managers, insurers, pension funds, and banks, with asset managers acting as general partners.
+However, challenges in monitoring private credit arise due to a lack of harmonised definitions
+and granular data, as well as opacity, complex valuation practices, and intricate and varied
+funding structures.
+Interconnections between private credit funds and banks, insurers, and private equity firms are
+deepening, raising potential vulnerabilities. While closed-end structures have traditionally
+mitigated liquidity mismatches, the growing use of fund structures that provide some investor
+liquidity and retail investor involvement may increase risks. Borrowers in private credit markets
+are often highly leveraged, making them susceptible to economic downturns, while reliance on
+opaque valuations and private ratings heightens vulnerabilities. The sector's complexity,
+leverage, and interconnectedness could amplify stress in adverse scenarios, posing broader
+risks to financial stability.
+Looking ahead, the FSB’s continued efforts will be considered in four main areas. The first area
+will involve continuing the assessment of vulnerabilities related to interlinkages between a range
+of nonbanks within the private finance ecosystem, as well as potential vulnerabilities related to
+liquidity mismatches in private credit funds. Second, work is underway to map and define the
+components of the complex and evolving ecosystem. Third, facilitating supervisory discussions
+will be considered to enhance authorities’ ability to assess and supervise vulnerabilities and
+risks. Finally, the potential to address data challenges will be explored, to improve authorities’
+ability to monitor and address vulnerabilities.

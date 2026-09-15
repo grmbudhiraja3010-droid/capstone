@@ -1,0 +1,8 @@
+Title : Customer evaluating criteria
+
+Abstract : 
+
+Loan Eligibility & Repayment Capacity	Loan eligibility depends on factors such as age, income, employment/business profile, credit history, and repayment capacity. Banks may also set limits on total deductions, including the proposed EMI, relative to income.
+LTV (Loan-to-Value) Ratio	LTV represents the loan amount relative to the value of the collateral. It helps lenders control their exposure to the asset and provides a measure of protection against declines in collateral value.
+CIBIL Score in Lending	CIBIL history is one of the factors lenders consider when evaluating unsecured borrowers. A borrower’s credit profile helps lenders assess the likelihood of repayment and determine lending terms.
+Secured vs Unsecured Loans	The fundamental difference is the presence of collateral: secured loans are backed by an asset, while unsecured loans rely primarily on the borrower’s creditworthiness and income. This difference affects lender risk and typically influences the interest rate.

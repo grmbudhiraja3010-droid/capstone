@@ -1,0 +1,102 @@
+Local .txt Documents
+        ↓
+Document Loading
+        ↓
+Whitespace Cleaning
+        ↓
+Character-based Chunking
+        ↓
+Gemini Embeddings
+gemini-embedding-001
+        ↓
+NumPy Vector Store
+embeddings.npy
+        ↓
+Cosine Similarity Retrieval
+        ↓
+Parent Document ID Deduplication
+        ↓
+Top-K Context
+        ↓
+Gemini Generation
+gemini-3.6-flash
+        ↓
+Grounded Answer
+        ↓
+LLM-as-a-Judge
+        ↓
+Faithfulness + Answer Relevance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+proposed improvement :
+Query
+ ↓
+Wide candidate pool
+ ↓
+Optional dense + lexical retrieval
+ ↓
+Cross-encoder reranker
+ ↓
+Best chunk per document
+ ↓
+Top K documents
+ ↓
+LLM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+future scope :
+Enterprise Knowledge Assistant
+
+PDF/document
+ ↓
+Parser
+ ↓
+Chunking
+ ↓
+Embedding
+ ↓
+Vector DB
+ ↓
+Retriever
+ ↓
+Reranker
+ ↓
+LLM
+ ↓
+Answer
+ ↓
+Citation

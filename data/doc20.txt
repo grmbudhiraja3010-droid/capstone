@@ -1,0 +1,185 @@
+
+As credit risk management enters 2026, financial institutions are navigating rapid change driven by AI adoption, evolving regulations, and increasing data and sustainability expectations.
+
+At the same time, advances in artificial intelligence, automation, and analytics are reshaping how credit risk is assessed, monitored, and governed. From predictive modelling and model risk management to automated regulatory reporting, institutions are rethinking traditional approaches to keep pace with complexity and volatility.
+
+For banks and financial institutions, success will depend on strengthening data-driven governance, improving transparency in economic forecasting, embedding ESG considerations into credit decisions, and modernising treasury and risk systems. Managing these shifts in a structured and sequenced way is critical to maintaining resilience and efficiency.
+
+We’ve outlined the key trends shaping credit risk management in 2026 and why they call for more agile, technology-enabled, and forward-looking risk frameworks.
+
+Swipe through to explore the trends redefining credit risk management in 2026.
+
+
+Credit markets are playing a growing role in the buildout of artificial intelligence, with nearly $500 billion of AI-related debt issuance so far in 2026, according to estimates from Goldman Sachs Research. Amanda Lynam, head of credit strategy research, and Zach Ablon, head of the credit sales desk in Global Banking & Markets, discuss why cash-rich tech giants are turning to bond markets, the potential risks for institutional investors, and how alternative financing channels—including private credit, infrastructure funds, and high-yield markets—are being used to fill the funding gap.
+
+Amanda Lynam: It's hard to overstate the importance of this theme in the credit markets, both in terms of its overall scale in the amount of supply, but also in the multi-year nature of the issuance, which is something that the credit market hasn't always seen.
+
+Allison Nathan: Tech companies have been turning to the bond markets to raise money for the AI buildout at an unprecedented scale. So how will this wave of borrowing reshape the credit markets?
+
+I'm Allison Nathan, and this is Goldman Sachs Exchanges. To discuss the scale of the shift and credit market implications, I'm sitting down with Amanda Lynam, who leads Credit Strategy Research, and Zach Ablon, who's on the front lines of our credit sales desk in Global Banking & Markets. Amanda, Zach, welcome to Exchanges.
+
+Zach Ablon:  Thank you. 
+
+Allison Nathan: I think this is the first time both of you have been on in this studio. So I'm looking forward to this conversation. Very topical conversation, of course. Amanda, when we think about this topic there's been a lot of focus on the equity issuance around the AI theme, but you've actually called the AI-related debt supply the dominant theme in the credit markets. So tell us our listeners about why that is. 
+
+Amanda Lynam: That is right. Well, first of all, thank you so much for having us. It's hard to overstate the importance of this theme in the credit markets, both in terms of its overall scale in the amount of supply, but also in the multiyear nature of the issuance, which is something that the credit market hasn't always seen.
+
+In periods of re-leveraging in the credit markets, typically it's been short-lived, maybe for an industry that's engaging in debt-funded M&A or an issuer that's doing a debt-funded acquisition, or even the bank's recapitalization of TLAC-related supply a couple of years ago. This is very unique, and so our equity analysts have outlined their expectations for AI-related CapEx spending over the next several years to reach into the high trillions of dollars.
+
+We're already at a point where CapEx is quickly approaching cash flow from operations, and so that paves the way for the debt markets to play a role. Now, there's a significant amount of uncertainty as to how large of a role the debt markets will play. It will depend on how quickly cash flow from operations from this industry can accelerate.
+
+But the key point is that there's a significant amount of financing to be had. It is going to take a variety of markets to work together to service this need. But at the end of the day, we're not concerned about access to capital for this theme. We just think as the multiyear nature of this cycle goes on, there will need to be a more nuanced conversation about where to actually take this risk and at what price.
+
+And a lot of investors will look to the US IG bond market as kind of the obvious choice to do the heavy lifting, and the point that we've made is that there's a big difference between how much the group of hyperscalers can issue while staying investment grade and how much the bond market can easily absorb without veering too far from issuer concentration or market saturation conventions.
+
+Allison Nathan: I do want to dig into some of those issues, but before we do, you did reference the fact that these are very cash-rich companies. So, let's just take a step back for a minute. Why are they turning to the bond market when they have a lot of cash? 
+
+Amanda Lynam: Sure. So this is a trend that actually started in 2025.
+
+These companies, the group of hyperscalers, issued $108 billion of debt globally in 2025. Fast-forward to 2026. So far this year, they've issued $194 billion. On paper, they still have cash on their balance sheet. They still have ample cash flow from operations compared to CapEx, but I think what they're doing is appropriately getting ahead of a multi-year investment cycle and almost we think of it as a waterfall of capital, almost exhausting the depth of these different capital markets, debt, equity, their own internal cash flows, to really position themselves to be able to invest in this business, going forward.
+
+I think the key point to outline, however, is that it's not just about the hyperscalers competing for a place in investors' portfolios. There's been issuance from the broader AI ecosystem year-to-date that's been sizable. By our estimates, we track nearly $500 billion of AI-related debt issuance, so the hyperscalers have actually only been 40% of that.
+
+And so that's also what makes this really striking is that it's not just the amount and the multi-year nature, but it's almost the concentrated nature of the supply in one theme, and investors need to navigate where to take that exposure. 
+
+Allison Nathan: And as you just mentioned, they can issue equity, they can issue debt. Talk to us a little about why one versus the other. 
+
+Amanda Lynam: Sure. So, I think if I had to frame it at a very high level, these companies just are so highly rated and so low levered that there's a lot of runway to add debt into their capital structures and still enjoy ample access to the IG capital markets.
+
+We've seen this before in sectors like pharma and in telecom, where companies strategically added leverage to their capital structures for a reason. Debt-funded M&A, again, is a great example of that. As a credit investor, you're hoping that they're not doing it for a debt-funded share buyback. Right?
+
+This is a different calculus. But I think it's part of prudent capital structure management to kind of think through, do I really need to be this highly rated? And if not, how can I strategically add debt in order to preserve a strong balance sheet, yet really have the most efficient cost of capital?
+
+If you read through what these companies are saying, the group of hyperscalers, they make a lot of references to strong balance sheets, resilient balance sheets, but they don't call out specific ratings, and they typically don't call out specific leverage targets, at least based on our review. And so, I think that paves the way for them to kind of strategically add debt to their capital structures to bolster their financial power to really invest in their business.
+
+And I think the key point that we've been tracking is that even a slightly higher cost of capital for this group is probably still accretive for them to continue to invest in this theme based on the returns and the objectives that they've outlined for the ROIC, the return on invested capital.
+
+So, this is a trend that we think is in the early innings. In terms of the mix of debt versus equity, I mean, if our equity colleagues were here, they would tell you that the choice for some of these companies to issue equity is very issuer specific. And so I think it really does depend on what their ultimate view of where their stock price is and what they're trying to achieve from their capital structure.
+
+Some have done it already. But in general, I think we feel pretty comfortable saying that the tech sector broadly has been very highly rated and very under-levered for a period of time. And so there's ample runway to add debt to the capital structures for a strategic need.
+
+Allison Nathan: Zach, let me bring you into the conversation. You're talking to credit investors every day. What are you seeing on the desk? What does investor demand for this look like at this point? 
+
+Zach Ablon: So it's a great question. I'll back up and I'll a six-month snapshot. So, I would say there's two things to look at when we think about investor demand. One is what we've seen in the marketplace, and when we take a look at, you know, our AI leadership basket, right? And we created a lot of baskets and credit to identify and isolate certain themes.
+
+Obviously, the most important theme to date has been a number of these sort of AI-related factors. When we take a look at the last 12 months for our AI leader basket, it's gone from tights of 74 basis points to nearly twice that. So the marketplace has clearly expressed some indigestion with some of this financing, and we've seen that in prices.
+
+I think when we take a look at the new issue universe, there are also signs that are worth noting. Specifically, when we think about, call it the insurance community, and we look at Q1 and some of the larger AI-related financings that we saw. In Q1, we would have anywhere from, call it 15 insurance clients coming into the 30-year part of that bond complex with $50 million-plus orders.
+
+You go towards the end of Q2, and that number was about half as big. And so that is emblematic to us that some of this community, right? And when I say community, it's insurance, it's real money, which are really some of the really larger client drivers of the performance in the investment grade market over the last few years are clearly losing their appetite for this risk.
+
+And that could be a function of performance, certainly concentration limits, and potentially seeing, as Amanda mentioned, the uptick in CapEx, which seems to grow every year, and having to think about those deck chairs a bit from a concentration perspective. 
+
+Allison Nathan: Walk us through a little bit more about that concentration angle. Do these clients have actual specific mandates in terms of thinking about their portfolio balance? Or how do they think through these concentration issues? 
+
+Zach Ablon: So, every client is different, but yes, clients certainly have concentration by name. The AI issuance dynamic has made that a little tricky.
+
+And as it relates to the marketplace as a whole and again, Amanda touched on this, I think again, it was $10 billion of AI-related issuance in IG in 2024. That was 1% of year-to-date supply. $108 billion I believe in 2025. That was about 7%.
+
+And this year we're at about 18%. And that doesn't even tell the story of the duration weight. So, 40% of 15-year-plus issuance in IG this year has been by AI companies or companies that are funding the AI thematic. And so in doing so, you've shaken up the market a little bit. I can remember prior to sort of this AI-related conversation clients waiting for 30-year issuance.
+
+Like, the market just wasn't creating much of it, and that has certainly shifted dramatically. And even when we take a look at specific names, Amazon, for example, is the highest duration weight in the IG index. Last year, it was number 20. Google, I believe, is now 18. Last year it was 86. So, you can really get a sense from a duration perspective of how things have changed over the last 12 to 24 months.
+
+Allison Nathan: But that extension of duration in some levels is really good for your real money clients. As you had said, there was sort of a dearth of these long duration assets at some point. 
+
+Zach Ablon: Yes. For sure. In early days, I think, you know, the market was very happy to see that duration-oriented paper in the marketplace.
+
+Now, there will be some hand-wringing around how much more is there, how fast is it going to come, what does the curve shape look like? The marketplace has had less indigestion with 10-year and in. When we take a step back, we can think about our own history, and we can think about, again, just to use Amazon, 30 years ago, Amazon was selling books online.
+
+A lot can change in 30 years. Obviously, it worked out extremely well for Amazon. For others, probably less so. But it can help create the mindset as to why folks may be a little less apt to take a 30-year bet on a company, particularly with the advent of AI, when it just may be easier to take the three-year, the five-year, the 10-year view. And our order books have reflected more ease with shorter duration than out the curve over the last several months. 
+
+Allison Nathan: And Amanda, you've given us a sense of the scale of this. But what are your forecasts, what are you expecting down the road- in terms of the size of all this? And then let's get into some of these saturation issues.
+
+Amanda Lynam: Sure. So I think given the pace of upward revision to CapEx estimates, the way that we thought was most reasonable is to frame this as a percentage of CapEx that we expect to be debt financed. So as opposed to kind of sticking a dollar estimate on it, we've said, okay, taking that $108 billion of issuance that Zach mentioned in 2025, that actually represents 27% of CapEx from the hyperscalers.
+
+So far this year, again, we've had $194 billion of issuance. We think that roughly 33% or one-third of CapEx will be debt financed in 2026. So, what that means is that all in, we're bracing for something like $250 billion of direct supply from the hyperscalers, leaving the project finance aside, which I'll get to.
+
+And then we expect this to peak next year in 2027, where we expect 35% of CapEx to be debt financed. And the reason for that is that if you read what these hyperscalers are saying, there's a delay between when they invest and when they can monetize that investment of anywhere from three months to two years.
+
+So given the pace of CapEx spend and the investment, and again, because CapEx and cash flow from operations are quickly approaching the same level, they're converging, we're not in this position where we have excess liquidity as pronounced as we did in years past. We feel comfortable that the debt markets will play a larger role, kind of full stop, in financing this hyperscaler investment.
+
+Now, which markets do the heavy lifting has very important implications for credit performance. Again, big difference between how much debt hyperscalers could theoretically add and stay well within IG. Just for context, we did a simple exercise where we took the hyperscalers up to two times net leverage or three times gross leverage, both of which I view as very reasonable metric levels for IG ratings.
+
+That implies around the ballpark of $2 trillion of incremental debt capacity, right? That's a very large number. And again, that's a reasonable ballpark for mid to upper end of leverage for IG ratings. We actually don't think that's the binding constraint. The binding constraint in our view is how much can the US IG market reasonably absorb, and then let's go from there and use other markets to fill in that financing void.
+
+So we've used the US banks as a case study. The three largest issuers in the US IG market happen to be US banks. Using the Bloomberg Index, none of them have more than $175 billion of index-eligible debt, and none of them represent more than 2.3% of the index. So, if you just very simply bring the hyperscalers up to the level of the US banks, what you would have is an incremental $510 billion of debt capacity in the US IG bond market alone.
+
+Allison Nathan: But are you getting any pushback on that comparison to banks? Because there are differences.
+
+Amanda Lynam: When I talk to clients and we walk through this US banks case study and we walk through kind of, okay, here's the largest issuers in the market, here's where we think the hyperscalers could get to, some clients potentially, it's largely institutional real money clients will push back and say, "Yes, but that might be a generous comparison for two reasons."
+
+One, clients will mention that they have a lot more equity exposure to the tech sector than they do to banks. So, all else equal, if they're thinking about AI-related exposure across their entire institution and kind of adding it all up they will say, "That might temper my demand for hyperscaler or tech debt."
+
+Again, this is not just the hyperscalers, this is tech broadly. That may temper my demand for AI-related debt because I already have exposure to this theme in the equity market in many instances. And then the second point is exactly what Zach referenced, that longer duration issuance is treated differently than that shorter duration issuance.
+
+And so those dollar-for-dollar comparisons may not be equal, that the $510 billion of debt capacity may not be that large because if the sector keeps skewing towards the long end of the curve, if investors are thinking about it from a duration perspective, they may pare back a little bit. All of that is to say there's still a pretty meaningful runway in 2026 and well into 2027.
+
+Allison Nathan: So the comparable number we used for banks was roughly $500 billion, and that could be somewhat generous, as you just said. So what happens if we reach that threshold?
+
+Amanda Lynam: Again, to reiterate the point, we are not concerned about access to capital for this theme. We are just expecting there to be a more nuanced conversation about where to issue and at what price, because I think the reflex that I often hear from investors is, "What's the problem? The hyperscalers have such low leverage. The US IG market is broad and deep and liquid. Wouldn't that just do the heavy lifting?"
+
+And the point that we've raised is that credit investors don't share in the upside of our equity peers, so we tend to pay more attention to issuer concentration conventions and market saturation limits. And it's not a hard and fast limit, right?
+
+So in high yield, there are actually indices that cap the exposure at 2% or 3%. It's not the case in IG, but it is something that we think will be meaningful. 
+
+The obvious, the bigger question, is what markets fill the void? And here we think the private markets and other regional bond markets and new structures fill the void. So taking them in turn.
+
+The private markets we think are going to do the heavy lifting here. There's significant dry powder across private credit, infrastructure, real estate, and private equity strategies globally. $4.5 trillion, if you add it all up, across all categories of private markets.
+
+Right now, private infrastructure and real estate have been doing a lot of the digital infrastructure lending, but the lines are blurring, importantly. We're seeing data center financing categorized as private credit. We're seeing some venture debt. We're seeing some in private equity. And so we're less focused on kind of the actual categories of those private market strategies, but more how much financing firepower is there.
+
+And that's what I think gives us confidence that the capital for this trend will exist. It will just come from different pockets. Other markets that will contribute will be outside of the US. So a lot of the hyperscalers have already been issuing in Canadian dollar, sterling, Aussie dollar, yen.
+
+Ironically, the European market has been under-contributing in terms of generating AI-related supply, so that's an obvious choice. And then these new structures, whether they're project finance structures that are coming through the IG corporate bond market that are data center or chip financings. My colleague Arun Manohar has highlighted that the structured credit universe, so ABS in particular, could play a role once these data centers are finished.
+
+So, there's a wide range of capital to contribute here. It's just a matter of, I think, again, we're almost thinking about it as a waterfall of depth, of capital markets depth that will be exhausted.
+
+Allison Nathan: So Amanda, this conversation has focused almost entirely on investment grade, but are there implications for other credit markets?
+
+Amanda Lynam: It's a great question. This is really a market that is involving a multitude of financing channels. So obviously investment-grade because all of the hyperscalers are rated IG.
+
+But we're also seeing broad participation from the high-yield market. We're actually seeing participation from the leveraged loan market. And when we think about the amount of project finance and data center transactions that we expect, that's $300 billion in 2027 that is above and beyond the direct issuance from the hyperscalers.
+
+So really important to keep that in mind, that outside of this large amount of debt financing from the hyperscalers, the rest of the ecosystem is filling in financing around it. A lot of that is occurring in the high yield market, both in the US and then also starting to see more signs of that in Europe.
+
+So this is a market that's still trading pretty tight. There's a fair amount of issuance to come through here. And again, this will be a multi-year phenomenon in terms of the markets filling in the gap. Most of that issuance has also been pretty chunky in size. These are multi-billion-dollar deals, so it's actually pressured the average deal size of the US high-yield market up a fair amount, which is also very notable. So concentrated exposure, kind of lumpy exposure. Most of the structures have been five years. So it's a meaningful pattern to watch across the leveraged finance market as well, not just IG.
+
+Zach Ablon: We see the same in high yield. Again, IG gets a lot of publicity that 18% of the year-to-date supply has been AI-driven. It's about the same in the high yield market as well.
+
+And so what we've seen there is frankly over the period of time where the hyperscalers started to trade wider, we saw high yield really hang in there. Over the last week or so, we've started to see high yield follow some of the indigestion we've seen in the IG market. Specifically I think 17 out of the 23 sort of data center JV deals are now trading wide to originated yields.
+
+And I think if you look forward, particularly we don't spend a ton of time talking about chip financing, but chip financing is going to have a lower duration than some of the data center financing that we've seen in the IG market. And when you take a look at the high yield BB universe, which is trading  think went out Friday to165 basis points over and you see some of these data center deals coming, significantly wider to that have IG wrappers.
+
+I think there's some questions that will need to be answered, you know, across the high yield spectrum, particularly that BB universe that screens as very rich.
+
+Allison Nathan: Interesting. So Zach, I guess the big risk here is that AI overall disappoints and the theme itself stops performing. I think you might feel that very quickly. What are the signs you'd be watching for to assess client sentiment. I mean, beyond these digestion issues if this AI theme starts to wobble? 
+
+Zach Ablon: I'd be watching a few things. The thing that probably everybody is watching is CapEx numbers and more specifically, sort of the double derivative there.
+
+At what point do CapEx numbers stop going up as much as they've been going up? They can continue to climb, but does it start to slow? And I think that will be a pretty interesting data point for people. Now, it's going to impact different markets in different ways. In many ways, we've seen clients use the credit market, again, because it just doesn't have the same sort of torque or convexity that being long equities has certainly had with regard to the AI theme as a hedge.
+
+But in a world where CapEx starts to slow and some of the picks and shovels with regard to the AI spend starts to come off, I actually see a scenario where credit will rally. I can see a scenario where the hyperscalers rally in equities and go significantly tighter in credit.
+
+And so that'll be an interesting event. And for those thinking that credit is just a natural hedge and really asymmetric, I think there's some truth to that, but you're going to have to watch how things unfold because there are scenarios where credit will go tighter and stocks will go down.
+
+I also think as it relates to the new issue marketplace, watching the new issue concessions on some of these deals will be pretty telling. New issue concessions were anywhere from call it, you know, two, three basis points prior to some of the indigestion of the last several months, got as big as 20 basis points on a very large hyperscaler deal.
+
+And as we see hyperscaler deals come to the fore, it'll be interesting to see how the marketplace digests that, and that's another data point that I'd be looking for.
+
+Allison Nathan: Amanda, anything to add to that? What are you watching? 
+
+Amanda Lynam: I think the one thing that's in the back of my mind is that the credit market works best in funding periods of active releveraging when there's an end in sight, it's quantifiable, and ideally there's a period of time where companies can grow into their capital structures.
+
+Ideally delever, but if, if not delevering, just kind of growing into their capital structures. And so, I think the key thing here is that there just needs to be, I think, some guideposts for investors into how much can we expect over what time. And I think to Zach's point, the CapEx will be so closely watched because I think the more clarity we can get on the final investment need, the better it will be for investors to wrap their arms around how much exposure should I be taking in the credit market, where specifically, and how do I think about that in the context of the broader exposure to the AI theme.
+
+So I think this is manageable, even though it's somewhat unprecedented in terms of the multi-year nature and the scale, but I do think we need some more granularity on what is the roadmap from here In terms of if I'm issuing in this quarter and, and I'm committing to not coming back for the next few quarters, I think that could really give investors some confidence.
+
+But again, not to overstate the point, it's not just about the hyperscalers, it's the broader AI ecosystem. There are big chunky bond deals that were announced recently that were not even in the hyperscaler subsector. And so investors are navigating this broader issuance trend to a much more dominant theme, and I think that will also be something to keep in mind as well.
+
+Allison Nathan: Interesting. Lots of food for thought. Zach, Amanda, thanks so much for joining us.
+
+Amanda Lynam: Thank you. 
+
+Zach Ablon: Thank you. 
+
+Allison Nathan: Thank you. This episode of Goldman Sachs Exchanges was recorded on Monday, August 3, 2026. If you enjoyed the show, we hope you'll subscribe on Apple Podcasts, Spotify, or wherever you get your podcasts, and leave us a rating and comment. I'm Allison Nathan, thanks for listening.

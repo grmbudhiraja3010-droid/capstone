@@ -1,0 +1,32 @@
+Title : Different types of accounts. (Liability to banks)
+
+Abstract : 
+Different Types of Bank Accounts
+
+Bank Accounts are classified into four different types. They are,
+
+1) Current Account
+2) Savings Account
+3) Recurring Deposit Account
+4) Fixed Deposit Account
+
+What is Current Account?
+
+Current account is mainly for business persons, firms, companies, public enterprises etc and are never used for the purpose of investment or savings. These deposits are the most liquid deposits and there are no limits for number of transactions or the amount of transactions in a day. While, there is no interest paid on amount held in the account, banks charges certain service charges, on such accounts. The current accounts do not have any fixed maturity as these are on continuous basis accounts.
+
+What is Savings Account?
+
+Savings Account is meant for saving purposes. Any individual either single or jointly can open a savings account. Most of the salaried persons, pensioners and students use Savings Account. The advantage of having Savings Account is Banks pay interest for the savings. The saving account holder is allowed to withdraw money from the account as and when required.
+
+The rate of interest ranges between 4% to 6% per annum in India. There is no restriction on the number and amount of deposits. But withdrawals are subjected to certain restrictions. Some banks recommend to maintain a minimum amount to keep it functioning.
+
+What is Recurring Deposit Account?
+
+Recurring deposit account or RD account is opened by those who want to save certain amount of money regularly for a certain period of time and earn a higher interest rate. In RD account a fixed amount is deposited every month for a specified period and the total amount is repaid with interest at the end of the particular fixed period.
+
+The period of deposit is minimum six months and maximum ten years. The interest rates vary for different plans based on the amount one saves and the period of time and also on banks. No withdrawals are allowed from the RD account. However, the bank may allow to close the account before the maturity period.
+
+These accounts can be opened in single or joint names. Banks are also providing the Nomination facility to the RD account holders.
+
+
+Fixed Deposits: Pay a fixed interest rate at regular intervals.Re-investment Deposits: Interest is compounded quarterly and paid out at maturity with the principal.Recurring Deposits (RDs): Fixed amounts are deposited regularly for a set term (6 to 120 months), aimed at salaried or regular income earners. Banks also offer hybrid products like Flexible RDs and Multiplier FDs.Demand Deposits: Funds can be withdrawn at any time without notice via checks, ATMs, or withdrawal slips. They are liquid, have no fixed maturity, and may or may not pay interest (e.g., savings accounts pay interest, current accounts do not).Current Accounts: Demand deposits that bear no interest, offer convenient operations, require high maintenance costs and minimum balances, and account for the smallest fraction of deposits.Savings Accounts: Accrue fixed interest from commercial banks but have restrictions on withdrawal frequency and amounts, alongside minimum balance requirements.CASA Deposits (Current Account Saving Account): Low-interest aggregate deposits for banks. Banks promote CASA deposits to reduce funding reliance on expensive term deposits, as a high CASA ratio provides better stability against interest rate shocks.

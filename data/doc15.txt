@@ -1,0 +1,33 @@
+Topic : Challenges associated with Postpaid on UPI or UPI credit line:
+
+Abstract : 
+1. Credit Risk / Defaults
+Because of more users being onboarded with limited credit history, defaults may rise. If not managed well, this could hurt lenders or lead to stricter terms that exclude vulnerable users.
+
+
+2. Over-leveraging / Excessive Consumption
+Easy access to credit may tempt users into overspending, leading to debt burdens or financial stress.
+
+
+3. Operational & Fraud Risks
+Fraud, delayed repayments, system errors, or misuse (e.g. converting credit into cash) could be problematic.
+
+
+4. Regulatory / Oversight Challenges
+Ensuring consumer protection, transparent disclosures, fair interest rates, overdue penalty policies, grievance redressal, and alignment with RBI / regulatory norms will be critical.
+
+
+5. Margin Pressure on Providers
+Especially for small ticket credit, margins are thin. Providers will need scale, efficient processes, and risk management to make it viable.
+
+
+6. Displacement / Erosion of Traditional Credit Products
+Some traditional micro-loans, credit card business, or small retail lending might face pressure as consumers shift to UPI-embedded credit.
+
+
+7. Systemic Risk (if scale becomes large)
+If many users default or credit stress spreads, there could be implications for financial stability — though initially the scale is likely modest.
+
+
+8. Exclusion Risk
+Users with poor credit histories or without digital footprint may remain excluded if eligibility is too restrictive, potentially widening inequalities.

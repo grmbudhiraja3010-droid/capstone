@@ -1,0 +1,23 @@
+
+================================================================================
+RUNNING MULTI-DIMENSIONAL RETRIEVAL BENCHMARK: K=3 vs K=5
+================================================================================
+
+Evaluating performance envelope for Hybrid K=3...
+
+Evaluating performance envelope for Hybrid K=5...
+
+================================================================================
+FINAL PIPELINE BENCHMARK SUMMARY
+================================================================================
+| Metric Category   | Performance Metric       | Hybrid K=3 Configuration   | Hybrid K=5 Configuration   | Delta / Operational Impact   |
+|-------------------|--------------------------|----------------------------|----------------------------|------------------------------|
+| QUALITY           | Hit Rate @ 1             | 0.8235                     | 0.8235                     | +0.0% First choice precision |
+| QUALITY           | Hit Rate @ 3             | 0.8824                     | 0.8824                     | Identical (Slices Top 3)     |
+| QUALITY           | Recall @ 3               | 0.8333                     | 0.8333                     | Identical (Slices Top 3)     |
+| QUALITY           | Recall @ 5               | 0.8333                     | 0.8627                     | +2.94% More targets captured |
+| QUALITY           | MAP @ 5 (Ranking)        | 0.8039                     | 0.8333                     | +2.94% Ranking refinement    |
+| LATENCY           | Avg Search Latency (ms)  | 684.8                      | 676.07                     | -8.73 ms Local overhead      |
+| COST              | Avg Input Tokens / Query | 493.2                      | 765.2                      | +272.0 Input tokens / query  |
+| COST              | Est. Input Cost (10k Qs) | $6.2888                    | $9.7568                    | $+3.4680 USD delta           |
+
