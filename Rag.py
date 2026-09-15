@@ -637,21 +637,21 @@ def retrieve(query, k=5):
 # # 17. RETRIEVAL TEST
 # # ============================================================
 
-# query = "Some central roles in banking today?"
-# results = retrieve(query, k=5)
+query = "Some central roles in banking today?"
+results = retrieve(query, k=5)
 
-# print("\n" + "=" * 60)
-# print("RETRIEVAL RESULTS")
-# print("=" * 60)
-# print("Query:", query)
+print("\n" + "=" * 60)
+print("RETRIEVAL RESULTS")
+print("=" * 60)
+print("Query:", query)
 
-# for i, result in enumerate(results, start=1):
-#     print(f"\nResult {i}")
-#     print("-" * 40)
-#     print("Chunk ID:", result["chunk_id"])
-#     print("Document:", result["doc_id"])
-#     print("Score:", round(result["score"], 4))
-#     print("Text:", result["text"])
+for i, result in enumerate(results, start=1):
+    print(f"\nResult {i}")
+    print("-" * 40)
+    print("Chunk ID:", result["chunk_id"])
+    print("Document:", result["doc_id"])
+    print("Score:", round(result["score"], 4))
+    print("Text:", result["text"])
 
 
 # ============================================================
@@ -683,143 +683,143 @@ evaluation_queries = [
 # # 19. RETRIEVAL EVALUATION (UPDATED COMPREHENSIVE ENGINE)
 # # ============================================================
 
-# print("\n" + "=" * 60)
-# print("RETRIEVAL EVALUATION")
-# print("=" * 60)
+print("\n" + "=" * 60)
+print("RETRIEVAL EVALUATION")
+print("=" * 60)
 
-# hit_at_1 = 0
-# hit_at_3 = 0
-# recall_at_3_total = 0.0
-# recall_at_5_total = 0.0
-# average_precision_total = 0.0
-# evaluated_count = 0
-
-
-# def average_precision_at_k(retrieved_results, relevant_docs, k=5):
-#     """
-#     Calculate Average Precision@K for one query, strictly capped at 1.0.
-#     Safely handles both lists of doc_ids and lists of chunk dictionaries.
-#     """
-#     if not relevant_docs:
-#         return 0.0
-
-#     # Extract clean document IDs if passed raw chunk result dictionaries
-#     if retrieved_results and isinstance(retrieved_results[0], dict):
-#         raw_docs = [res["doc_id"] for res in retrieved_results]
-#     else:
-#         raw_docs = list(retrieved_results)
-
-#     # 1. Order-preserving de-duplication up to position K
-#     unique_retrieved_docs = []
-#     for doc_id in raw_docs:
-#         if doc_id not in unique_retrieved_docs:
-#             unique_retrieved_docs.append(doc_id)
-#         if len(unique_retrieved_docs) == k:
-#             break
-
-#     # 2. Compute Precision at each unique hit position
-#     hits = 0
-#     precision_sum = 0.0
-
-#     for rank, doc_id in enumerate(unique_retrieved_docs, start=1):
-#         if doc_id in relevant_docs:
-#             hits += 1
-#             precision_at_rank = hits / rank
-#             precision_sum += precision_at_rank
-
-#     # 3. Standardize denominator
-#     denominator = min(len(relevant_docs), k)
-#     if denominator == 0:
-#         return 0.0
-
-#     return precision_sum / denominator
+hit_at_1 = 0
+hit_at_3 = 0
+recall_at_3_total = 0.0
+recall_at_5_total = 0.0
+average_precision_total = 0.0
+evaluated_count = 0
 
 
+def average_precision_at_k(retrieved_results, relevant_docs, k=5):
+    """
+    Calculate Average Precision@K for one query, strictly capped at 1.0.
+    Safely handles both lists of doc_ids and lists of chunk dictionaries.
+    """
+    if not relevant_docs:
+        return 0.0
 
-# for item in evaluation_queries:
-#     question = item["question"]
+    # Extract clean document IDs if passed raw chunk result dictionaries
+    if retrieved_results and isinstance(retrieved_results[0], dict):
+        raw_docs = [res["doc_id"] for res in retrieved_results]
+    else:
+        raw_docs = list(retrieved_results)
+
+    # 1. Order-preserving de-duplication up to position K
+    unique_retrieved_docs = []
+    for doc_id in raw_docs:
+        if doc_id not in unique_retrieved_docs:
+            unique_retrieved_docs.append(doc_id)
+        if len(unique_retrieved_docs) == k:
+            break
+
+    # 2. Compute Precision at each unique hit position
+    hits = 0
+    precision_sum = 0.0
+
+    for rank, doc_id in enumerate(unique_retrieved_docs, start=1):
+        if doc_id in relevant_docs:
+            hits += 1
+            precision_at_rank = hits / rank
+            precision_sum += precision_at_rank
+
+    # 3. Standardize denominator
+    denominator = min(len(relevant_docs), k)
+    if denominator == 0:
+        return 0.0
+
+    return precision_sum / denominator
+
+
+
+for item in evaluation_queries:
+    question = item["question"]
     
-#     if item.get("out_of_context", False):
-#         print("\nQuestion:", question)
-#         print("Type: Out-of-context / abstention test")
-#         continue
+    if item.get("out_of_context", False):
+        print("\nQuestion:", question)
+        print("Type: Out-of-context / abstention test")
+        continue
         
-#     query_vector = embed_query(question)
+    query_vector = embed_query(question)
     
-#     # Fetch up to 5 unique documents
-#     results = retrieve_from_vector(query_vector, k=5)
-#     retrieved_docs = [result["doc_id"] for result in results]
-#     relevant_docs = item["relevant_docs"]
+    # Fetch up to 5 unique documents
+    results = retrieve_from_vector(query_vector, k=5)
+    retrieved_docs = [result["doc_id"] for result in results]
+    relevant_docs = item["relevant_docs"]
     
-#     # ========================================================
-#     # HIT@1
-#     # ========================================================
-#     top1_hit = False
-#     if len(retrieved_docs) > 0:
-#         top1_hit = (retrieved_docs[0] in relevant_docs)
-#     # ========================================================
-#     # HIT@3 (Strictly considering the first 3 items)
-#     # ========================================================
-#     top3_docs = retrieved_docs[:3]
-#     top3_hit = bool(set(top3_docs) & relevant_docs)
+    # ========================================================
+    # HIT@1
+    # ========================================================
+    top1_hit = False
+    if len(retrieved_docs) > 0:
+        top1_hit = (retrieved_docs[0] in relevant_docs)
+    # ========================================================
+    # HIT@3 (Strictly considering the first 3 items)
+    # ========================================================
+    top3_docs = retrieved_docs[:3]
+    top3_hit = bool(set(top3_docs) & relevant_docs)
 
-#     # ========================================================
-#     # RECALL@3
-#     # ========================================================
-#     relevant_retrieved_at_3 = set(top3_docs) & relevant_docs
-#     recall_at_3 = len(relevant_retrieved_at_3) / len(relevant_docs)
+    # ========================================================
+    # RECALL@3
+    # ========================================================
+    relevant_retrieved_at_3 = set(top3_docs) & relevant_docs
+    recall_at_3 = len(relevant_retrieved_at_3) / len(relevant_docs)
 
-#     # ========================================================
-#     # RECALL@5
-#     # ========================================================
-#     top5_docs = retrieved_docs[:5]
-#     relevant_retrieved_at_5 = set(top5_docs) & relevant_docs
-#     recall_at_5 = len(relevant_retrieved_at_5) / len(relevant_docs)
+    # ========================================================
+    # RECALL@5
+    # ========================================================
+    top5_docs = retrieved_docs[:5]
+    relevant_retrieved_at_5 = set(top5_docs) & relevant_docs
+    recall_at_5 = len(relevant_retrieved_at_5) / len(relevant_docs)
 
-#     # ========================================================
-#     # MAP@5 (Calculated via AP@5 for this query)
-#     # ========================================================
-#     ap_at_5 = average_precision_at_k(retrieved_docs, relevant_docs, k=5)
+    # ========================================================
+    # MAP@5 (Calculated via AP@5 for this query)
+    # ========================================================
+    ap_at_5 = average_precision_at_k(retrieved_docs, relevant_docs, k=5)
 
-#     # Update totals
-#     if top1_hit:
-#         hit_at_1 += 1
+    # Update totals
+    if top1_hit:
+        hit_at_1 += 1
 
-#     if top3_hit:
-#         hit_at_3 += 1
+    if top3_hit:
+        hit_at_3 += 1
 
-#     recall_at_3_total += recall_at_3
-#     recall_at_5_total += recall_at_5
-#     average_precision_total += ap_at_5
-#     evaluated_count += 1
+    recall_at_3_total += recall_at_3
+    recall_at_5_total += recall_at_5
+    average_precision_total += ap_at_5
+    evaluated_count += 1
 
-#     # Printing individual runtime indicators
-#     print("\nQuestion:", question)
-#     print("Expected:", sorted(relevant_docs))
-#     print("Retrieved unique docs:", retrieved_docs)
-#     print("Hit@1:", top1_hit)
-#     print("Hit@3:", top3_hit)
-#     print("Recall@3:", round(recall_at_3, 4))
-#     print("Recall@5:", round(recall_at_5, 4))
-#     print("AP@5:", round(ap_at_5, 4))
+    # Printing individual runtime indicators
+    print("\nQuestion:", question)
+    print("Expected:", sorted(relevant_docs))
+    print("Retrieved unique docs:", retrieved_docs)
+    print("Hit@1:", top1_hit)
+    print("Hit@3:", top3_hit)
+    print("Recall@3:", round(recall_at_3, 4))
+    print("Recall@5:", round(recall_at_5, 4))
+    print("AP@5:", round(ap_at_5, 4))
 
 
-# # ============================================================
-# # 20. FINAL RETRIEVAL METRICS
-# # ============================================================
+# ============================================================
+# 20. FINAL RETRIEVAL METRICS
+# ============================================================
 
-# print("\n" + "=" * 60)
-# print("FINAL RETRIEVAL EVALUATION")
-# print("=" * 60)
+print("\n" + "=" * 60)
+print("FINAL RETRIEVAL EVALUATION")
+print("=" * 60)
 
-# print("Evaluated questions:", evaluated_count)
+print("Evaluated questions:", evaluated_count)
 
-# if evaluated_count > 0:
-#     print("Hit@1:", round(hit_at_1 / evaluated_count, 4))
-#     print("Hit@3:", round(hit_at_3 / evaluated_count, 4))
-#     print("Recall@3:", round(recall_at_3_total / evaluated_count, 4))
-#     print("Recall@5:", round(recall_at_5_total / evaluated_count, 4))
-#     print("MAP@5:", round(average_precision_total / evaluated_count, 4))
+if evaluated_count > 0:
+    print("Hit@1:", round(hit_at_1 / evaluated_count, 4))
+    print("Hit@3:", round(hit_at_3 / evaluated_count, 4))
+    print("Recall@3:", round(recall_at_3_total / evaluated_count, 4))
+    print("Recall@5:", round(recall_at_5_total / evaluated_count, 4))
+    print("MAP@5:", round(average_precision_total / evaluated_count, 4))
 
 
 
