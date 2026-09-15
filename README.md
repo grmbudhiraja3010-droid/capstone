@@ -664,7 +664,7 @@ rag-track-a/
 
 ---
 
-# 15. Creator's Final Takeaway
+# 15. Takeaway
 
 The main learning from this project was that a RAG system is not just:
 
